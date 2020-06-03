@@ -1,0 +1,12 @@
+C:\Users\Anshuman\Documents\Visual Studio 2010\Projects\Library Database System\Library Database System\bin\Debug\Library Database System.exe
+C:\Users\Anshuman\Documents\Visual Studio 2010\Projects\Library Database System\Library Database System\bin\Debug\Library Database System.pdb
+C:\Users\Anshuman\Documents\Visual Studio 2010\Projects\Library Database System\Library Database System\bin\Debug\Library Database System.xml
+C:\Users\Anshuman\Documents\Visual Studio 2010\Projects\Library Database System\Library Database System\obj\x86\Debug\Library_Database_System.Form1.resources
+C:\Users\Anshuman\Documents\Visual Studio 2010\Projects\Library Database System\Library Database System\obj\x86\Debug\Library_Database_System.Resources.resources
+C:\Users\Anshuman\Documents\Visual Studio 2010\Projects\Library Database System\Library Database System\obj\x86\Debug\Library Database System.vbproj.GenerateResource.Cache
+C:\Users\Anshuman\Documents\Visual Studio 2010\Projects\Library Database System\Library Database System\obj\x86\Debug\Library Database System.exe
+C:\Users\Anshuman\Documents\Visual Studio 2010\Projects\Library Database System\Library Database System\obj\x86\Debug\Library Database System.xml
+C:\Users\Anshuman\Documents\Visual Studio 2010\Projects\Library Database System\Library Database System\obj\x86\Debug\Library Database System.pdb
+C:\Users\Anshuman\Desktop\Lab Manual\LDS\Library Database System\Library Database System\obj\x86\Debug\Library Database System.exe
+C:\Users\Anshuman\Desktop\Lab Manual\LDS\Library Database System\Library Database System\obj\x86\Debug\Library Database System.xml
+C:\Users\Anshuman\Desktop\Lab Manual\LDS\Library Database System\Library Database System\obj\x86\Debug\Library Database System.pdb
